@@ -1,0 +1,12 @@
+Assignment 3:
+
+Write a minimum 500-word essay. 
+      Explain your selection of algorithms - how they relate to the data and what you are trying to do with the data. 
+      Perform an analysis of the dataset used in homework 2 but with the SVM algorithm. Compare the results of SVM with results from the previous homework.
+      Answer questions based on the articles:
+          Which algorithm is recommended to get more accurate results?
+          Is it better for classification or regression scenarios?
+          Do you agree with the recommendations?
+          Why?
+Include the code + errors + analysis as a notebook. Use R or Python code.
+Include the analysis of your R or Python code.
