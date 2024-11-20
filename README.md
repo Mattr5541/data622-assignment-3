@@ -26,8 +26,8 @@ cd <repository-name>
 
 - **macOS/Linux:**
   ```bash
-  python -m venv venv
-  source venv/bin/activate
+  python -m venv .venv
+  source .venv/bin/activate
   ```
 
 ## 3. Install Dependencies
